@@ -1,0 +1,17 @@
+{
+  "name": "F&D
+ Wedding",
+  "short_name": "F&D
+ Wedding",
+  "start_url": "/altf4/",
+  "scope": "/altf4/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/altf4/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
