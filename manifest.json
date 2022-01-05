@@ -3,14 +3,14 @@
  Wedding",
   "short_name": "F&D
  Wedding",
-  "start_url": "/francescoedaniela.site/",
-  "scope": "/francescoedaniela.site/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/francescoedaniela.site/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "512x512"
     }
   ]
