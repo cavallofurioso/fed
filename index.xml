@@ -10,6 +10,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://francescoedaniela.site/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>!!! XXX !!!</title>
+      <link>https://francescoedaniela.site/docs/wedding/thanks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://francescoedaniela.site/docs/wedding/thanks/</guid>
+      <description>##Thanks
+Grazie!!!!</description>
+    </item>
+    
+    <item>
       <title>Creating a New Theme</title>
       <link>https://francescoedaniela.site/posts/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
@@ -36,8 +46,8 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://francescoedaniela.site/docs/wedding/allergie/</guid>
-      <description>Allergie #  Utilizzate il form qui sotto per segnalarci le vostre allergie e\o intolleranze.
-0-1 years1-5 years5+ yearsSend</description>
+      <description>Allergie #  Per segnalarci le vostre allergie e/o intolleranze utilizzate il form qui sotto, inserendo nel campo testo quelle relative a ogni persona (boh non sò come si può dire).
+Nome e CognomeE-mailTestoInvia!</description>
     </item>
     
     <item>
@@ -46,7 +56,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://francescoedaniela.site/docs/wedding/church/</guid>
-      <description>La cerimonia religiosa avrà luogo presso la Concattedrale di Sant&amp;rsquo;Eustachio Martire alle ore 10:30.
+      <description>Chiesa #  La cerimonia religiosa avrà luogo presso la Concattedrale di Sant&amp;rsquo;Eustachio Martire alle ore 10:30.
 Indirizzo: Piazza dei Martiri, Acquaviva delle Fonti (BA), 70021</description>
     </item>
     
@@ -59,13 +69,7 @@ Indirizzo: Piazza dei Martiri, Acquaviva delle Fonti (BA), 70021</description>
       <description>Contatti #  Per poter organizzare al meglio la festa vi chiediamo gentile conferma della Vostra presenza entro il 10 giugno.
 Per qualsiasi necessità non esitate a contattarci!
 menu a colonna!
-  Francesco Racano
-  Via Leandro Pecci 20, Acquaviva delle Fonti (BA), 70021
-  3281689373
-  f.racano8@live.com
-  Daniela Lerario
-  Via Monsignor Laera 125, Acquaviva delle Fonti (BA), 70021
-  3934344312</description>
+Francesco Racano #   Via Leandro Pecci 20, Acquaviva delle Fonti (BA), 70021 3281689373 f.racano8@live.com   Daniela Lerario #   Via Monsignor Laera 125, Acquaviva delle Fonti (BA), 70021 3934344312 danielalerario@outlook.it    </description>
     </item>
     
     <item>
