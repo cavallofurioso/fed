@@ -19,6 +19,8 @@
 
 
   
+    <link rel="stylesheet" href="/css/custom.css">
+  
 
     
     
@@ -55,8 +57,9 @@
   
 
   
+
   <header class="cover bg-top" style="background-image: url('https://www.francescoedaniela.site/images/us.jpg');">
-    <div class="bg-black-40">
+       <div class="bg-black-40">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
  
  
@@ -83,6 +86,14 @@
           
             <a class="hover-white i baskerville no-underline white-70" href="/ricevimento/" title="Ricevimento page">
               Ricevimento
+            </a>
+          </li>
+          
+
+          <li class="list f4-ns fw7 black dib pr3">
+          
+            <a class="hover-white i baskerville no-underline white-70" href="/info/" title="Info page">
+              Info
             </a>
           </li>
           
@@ -117,9 +128,80 @@
           F&amp;D
         </h1>
         
-          <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3">
+          <h1 class="fw1 f5 f3-l white-80 measure-wide-l center mt3">
             Si Sposano!
-          </h2>
+
+
+             
+
+            <div id="countdown"></div>
+<script type="text/javascript">
+
+  var countdown_html = document.getElementById("countdown");
+
+function countdown() {
+
+    var return_string = '';
+    var today = new Date();
+    var weddingDate = new Date(2022, 06, 29);
+    var ms = weddingDate - today;
+  
+    if (ms > 0) {
+        var d = ms / (1000 * 60 * 60 * 24) | 0;
+        var h = ms % (1000 * 60 * 60 * 24) / (1000 * 60 * 60) | 0;
+        var m = ms % (1000 * 60 * 60) / (1000 * 60) | 0;
+        var s = ms % (1000 * 60) / (1000) | 0;
+
+        var timeParts = [d, h, m, s];
+        console.log(timeParts);
+        var timeStringParts = new Array();
+        var timeString = "";
+
+        for (var i = 0; i < 4; i++) {
+
+            switch (i) {
+                case 0:
+                    timeString = "D ";
+                    break;
+                case 1:
+                    timeString = "H ";
+                    break;
+                case 2:
+                    timeString = "m ";
+                    break;
+                case 3:
+                    timeString = "s ";
+                    break;
+            }
+            
+
+            if (timeParts[i] > 0) {
+                timeStringParts.push(timeParts[i] + timeString);
+            }
+
+        }
+
+        for (var i = 0; i < timeStringParts.length - 1; i++) {
+
+            return_string += timeStringParts[i];
+        }
+
+        return_string += (timeStringParts[timeStringParts.length - 1])
+
+    } 
+    else {
+        return_string = "E'";
+    }
+
+    return return_string;
+}
+
+setInterval(function() {
+countdown_html.innerHTML = '<p>' + countdown() + '</p>';
+}, 1000);
+</script>
+</div>
+          </h1>
         
       </div>
     </div>
@@ -143,8 +225,7 @@
   float: left;
   padding: 10px;
   height: 700px;
-  
-}
+  }
 
 .left, .right {
     width: 40%;
@@ -159,33 +240,67 @@
   display: table;
   clear: both;
 }
+
+.alignment-right {
+    text-align: right;
+}
+
+.alignment-left {
+    text-align: left;
+}
+
 </style>
 </head>
 <body>
 
 <div class="row">
   <div class="column left" style="background-color:bg-white;">
+    <div class="alignment-left">
     <h4 style="text-align:left">Francesco</h4>
     <img src="/images/man.jpg">
-    <p style="text-align:left";> Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut olivae sensit arma sorori deducit, inesset crudus, ego vetuere aliis, modo arsit? Utinam rapta fiducia valuere litora adicit cursu, ad facies</p>
-  </div>
+    <h5 style="text-align:left; font-family:Sofia">La sposo perchè...</h5>
+    <i style="font-family:times">...per me
+    <br>
+    sei la fine del mondo
+    <br>
+    Il mistero e la realtà
+    <br>
+    Un pensiero dolce e profondo
+    <br>
+    Sei la vita che passa e non teme l'età
+    <br>
+    perchè dentro non cambierà </i>
+    </div>
+</div>
   <div class="column middle" style="background-color:bg-white;">
+  <br>
+    <br>
+    <br>
     <h3 style="text-align:center" >29 LUGLIO 2022</h3>
-    <p></p>
+    <br>
+
+    
   </div>
   <div class="column right" style="background-color:bg-white;">
+  <div class="alignment-right">
     <h4 style="text-align:right">Daniela</h4>
-    <img src="/images/woman.jpg", align="right">
+    <img src="/images/woman.jpg">
+    <h5 style="text-align:right";> Lo sposo perchè... </h5>
+    <i style="font-family:times">...lo stesso sangue abbiamo noi
     <br>
+    lo stesso cielo se lo vuoi
     <br>
+    e volo nella tua magia
     <br>
+    la mia energia
     <br>
+    e ci sforiamo l'anima, forse le nostre verità
     <br>
-    <br>
-    <p style="text-align:right";> Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut olivae sensit arma sorori deducit, inesset crudus, ego vetuere aliis, modo arsit? Utinam rapta fiducia valuere litora adicit cursu, ad facies</p>
+    possiamo farlo solo noi </i>
+  </div>
   </div>
 </div>
-
+</div>
 </body>
 </html>
 
@@ -193,6 +308,11 @@
 
 
 
+
+
+
+
+ 
 
 
 
@@ -279,7 +399,9 @@
 
 <div id="slide-window">
     <ol id="slides-list">
+                <li class="slide" style="background-image:url(https://www.francescoedaniela.site/images/australia.jpg);"></li>
                 <li class="slide" style="background-image:url(https://www.francescoedaniela.site/images/catt.jpg);"></li>
+                <li class="slide" style="background-image:url(https://www.francescoedaniela.site/images/dan.png);"></li>
                 <li class="slide" style="background-image:url(https://www.francescoedaniela.site/images/man.jpg);"></li>
                 <li class="slide" style="background-image:url(https://www.francescoedaniela.site/images/test.png);"></li>
                 <li class="slide" style="background-image:url(https://www.francescoedaniela.site/images/us.jpg);"></li>
@@ -363,101 +485,6 @@ sliderJQuery(function( $ ) {
       resetAutoSlide();
 });
 </script>
-
-
-
-
-
-
-
-<html>
-<head>
-<style>
-    .alignment {
-        text-align: center;
-    }
-</style>
-</head>
-  <body>
-
-
-<div class="alignment">
-
-<div id="countdown"></div>
-<script type="text/javascript">
-
-  var countdown_html = document.getElementById("countdown");
-
-function countdown() {
-
-    var return_string = 'Only ';
-    var today = new Date();
-    var weddingDate = new Date(2022, 07, 29, 00);
-    var ms = weddingDate - today;
-
-    if (ms > 0) {
-        var d = ms / (1000 * 60 * 60 * 24) | 0;
-        var h = ms % (1000 * 60 * 60 * 24) / (1000 * 60 * 60) | 0;
-        var m = ms % (1000 * 60 * 60) / (1000 * 60) | 0;
-        var s = ms % (1000 * 60) / (1000) | 0;
-
-        var timeParts = [d, h, m, s];
-//        console.log(timeParts);
-        var timeStringParts = new Array();
-        var timeString = "";
-
-        for (var i = 0; i < 4; i++) {
-
-            switch (i) {
-                case 0:
-                    timeString = " day";
-                    break;
-                case 1:
-                    timeString = " hour";
-                    break;
-                case 2:
-                    timeString = " minute";
-                    break;
-                case 3:
-                    timeString = " second";
-                    break;
-            }
-            
-
-            if (timeParts[i] > 1) {
-                timeString += 's';
-            }
-
-            if (timeParts[i] > 0) {
-                timeStringParts.push(timeParts[i] + timeString);
-            }
-
-        }
-
-        for (var i = 0; i < timeStringParts.length - 1; i++) {
-
-            return_string += timeStringParts[i] + ', ';
-        }
-
-        return_string += (' e ' + timeStringParts[timeStringParts.length - 1] + ' alla data magica!')
-
-    } 
-    else {
-        return_string = "E'";
-    }
-
-    return return_string;
-}
-
-setInterval(function() {
-countdown_html.innerHTML = '<p>' + countdown() + '</p>';
-}, 1000);
-</script>
-
-</div>
-</body>
-</html>
-
 
 
 
