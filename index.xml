@@ -21,7 +21,7 @@ Cambierò colore
 Ma io sono sicuro che
 Saremo ancora noi due
 La cerimonia religiosa avrà luogo presso la Concattedrale di Sant&amp;rsquo;Eustachio Martire alle ore 10:30.
-Indirizzo: Piazza dei Martiri, Acquaviva delle Fonti (BA), 70021 </description>
+Indirizzo: Piazza dei Martiri, Acquaviva delle Fonti (BA), 70021 .alignment {text-align: center;}var countdown_html = document.getElementById(&#34;countdown&#34;);function countdown() {var return_string = &#39;Only &#39;;var today = new Date();var weddingDate = new Date(2022, 06, 29, 16);var ms = weddingDate - today;if (ms  0) {var d = ms / (1000 * 60 * 60 * 24) | 0;var h = ms % (1000 * 60 * 60 * 24) / (1000 * 60 * 60) | 0;var m = ms % (1000 * 60 * 60) / (1000 * 60) | 0;var s = ms % (1000 * 60) / (1000) | 0;var timeParts = [d, h, m, s];// console.</description>
     </item>
     
     <item>
