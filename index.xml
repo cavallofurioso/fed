@@ -30,10 +30,7 @@ Indirizzo: Piazza dei Martiri, Acquaviva delle Fonti (BA), 70021 .alignment {t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.francescoedaniela.site/ricevimento/</guid>
-      <description>Dopo la cerimonia religiosa attendiamo tutti gli invitati a proseguire i festeggiamenti presso Masseria &amp;ldquo;La Macina&amp;rdquo;.
-Masseria La Macina risale alla metà del XVII secolo e nasce con il nome di &amp;ldquo;Capricella Grande&amp;rdquo;. Sorge a Fasano, lungo contrada Torre Spaccata (antica via &amp;ldquo;Appia Traiana&amp;rdquo;).
- Indirizzo: SS 379 Torre Spaccata 72015 Fasano, Puglia, Italy (40.83553833599897, 17.43526443311218) Sito: http://www.masserialamacina.com/ Mail: info@masserialamacina.com  Dress code: no bianco no celeste
-.</description>
+      <description>.button {width: 100px;height: 40px;color: red;text-align: center;background-color: black;}.alignment {text-align: center;}Dopo la cerimonia religiosa attendiamo tutti gli invitati a proseguire i festeggiamenti presso Masseria &#34;La Macina&#34;.Masseria La Macina risale alla metà del XVII secolo e nasce con il nome di &#34;Capricella Grande&#34;.Sorge a Fasano, lungo contrada Torre Spaccata (antica via &#34;Appia Traiana&#34;). SS 379 Torre Spaccata 72015 Fasano, Puglia, Italy (40.</description>
     </item>
     
     <item>
@@ -53,8 +50,7 @@ La vita è un viaggio e chi viaggia vive due volte il nostro viaggio più lungo 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.francescoedaniela.site/contatti/</guid>
-      <description>Per poter organizzare al meglio la festa vi chiediamo gentile conferma della Vostra presenza entro il 10 giugno. Per qualsiasi necessità non esitate a contattarci!/
-* {box-sizing: border-box;}.column {float: left;width: 50%;padding: 10px;height: 200px;}.row:after {content: &#34;&#34;;display: table;clear: both;}Francesco RacanoVia Leandro Pecci 20
+      <description>* {box-sizing: border-box;}.column { float: left;width: 50%;padding: 10px;height: 200px;}.row:after {content: &#34;&#34;;display: table;clear: both;}Per poter organizzare al meglio la festa vi chiediamo gentile conferma della Vostra presenza entro il 10 giugno.Per qualsiasi necessità non esitate a contattarci! Francesco RacanoVia Leandro Pecci 20
 Acquaviva delle Fonti (BA)
 70021
 3281689373
