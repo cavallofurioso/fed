@@ -5,7 +5,6 @@
     <link>https://www.francescoedaniela.site/tags/</link>
     <description>Recent content in Tags on F&amp;D</description>
     <generator>Hugo -- gohugo.io</generator>
-<<<<<<< HEAD
     <language>en-us</language>
     
 	<atom:link href="https://www.francescoedaniela.site/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +12,3 @@
     
   </channel>
 </rss>
-=======
-    <language>en-us</language><atom:link href="https://www.francescoedaniela.site/tags/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
->>>>>>> 77351cfd875416477a356a7873c3a0335b960a9c

@@ -5,36 +5,19 @@
     <link>https://www.francescoedaniela.site/</link>
     <description>Recent content on F&amp;D</description>
     <generator>Hugo -- gohugo.io</generator>
-<<<<<<< HEAD
     <language>en-us</language>
     
 	<atom:link href="https://www.francescoedaniela.site/index.xml" rel="self" type="application/rss+xml" />
     
     
-=======
-    <language>en-us</language><atom:link href="https://www.francescoedaniela.site/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> 77351cfd875416477a356a7873c3a0335b960a9c
     <item>
       <title>Cerimonia</title>
       <link>https://www.francescoedaniela.site/cerimonia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.francescoedaniela.site/cerimonia/</guid>
-<<<<<<< HEAD
       <description>.center {text-align: center;}Non mi stanco ancoraA stare sotto il soleA prenderti la manoA dirti che ti amoPasseranno gli anniCambierò coloreMa io sono sicuro cheSaremo ancora noi dueLa cerimonia religiosa avrà luogo presso
 Concattedrale di Sant&#39;Eustachio Martire10:30Piazza dei Martiri, Acquaviva delle Fonti (BA), 70021</description>
-=======
-      <description>Non mi stanco ancora
-A stare sotto il sole
-A prenderti la mano
-A dirti che ti amo
-Passeranno gli anni
-Cambierò colore
-Ma io sono sicuro che
-Saremo ancora noi due
-La cerimonia religiosa avrà luogo presso la Concattedrale di Sant&amp;rsquo;Eustachio Martire alle ore 10:30.
-Indirizzo: Piazza dei Martiri, Acquaviva delle Fonti (BA), 70021 .alignment {text-align: center;}var countdown_html = document.getElementById(&#34;countdown&#34;);function countdown() {var return_string = &#39;Only &#39;;var today = new Date();var weddingDate = new Date(2022, 06, 29, 16);var ms = weddingDate - today;if (ms  0) {var d = ms / (1000 * 60 * 60 * 24) | 0;var h = ms % (1000 * 60 * 60 * 24) / (1000 * 60 * 60) | 0;var m = ms % (1000 * 60 * 60) / (1000 * 60) | 0;var s = ms % (1000 * 60) / (1000) | 0;var timeParts = [d, h, m, s];// console.</description>
->>>>>>> 77351cfd875416477a356a7873c3a0335b960a9c
     </item>
     
     <item>
@@ -43,24 +26,15 @@ Indirizzo: Piazza dei Martiri, Acquaviva delle Fonti (BA), 70021 .alignment {t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.francescoedaniela.site/ricevimento/</guid>
-<<<<<<< HEAD
       <description>.button {width: 100px;height: 40px;color: red;text-align: center;background-color: black;}.center {text-align: center;}Dopo la cerimonia religiosa attendiamo tutti gli invitati a proseguire i festeggiamenti presso Masseria &#34;La Macina&#34;Eisale alla metà del XVII secolo e nasce con il nome di &#34;Capricella Grande&#34;Sorge a Fasano, lungo contrada Torre Spaccata (antica via &#34;Appia Traiana&#34;) SS 379 Torre Spaccata 72015 Fasano(40.</description>
     </item>
     
     <item>
       <title>Lista di Nozze</title>
-=======
-      <description>.button {width: 100px;height: 40px;color: red;text-align: center;background-color: black;}.alignment {text-align: center;}Dopo la cerimonia religiosa attendiamo tutti gli invitati a proseguire i festeggiamenti presso Masseria &#34;La Macina&#34;.Masseria La Macina risale alla metà del XVII secolo e nasce con il nome di &#34;Capricella Grande&#34;.Sorge a Fasano, lungo contrada Torre Spaccata (antica via &#34;Appia Traiana&#34;). SS 379 Torre Spaccata 72015 Fasano, Puglia, Italy (40.</description>
-    </item>
-    
-    <item>
-      <title>Info</title>
->>>>>>> 77351cfd875416477a356a7873c3a0335b960a9c
       <link>https://www.francescoedaniela.site/info/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.francescoedaniela.site/info/</guid>
-<<<<<<< HEAD
       <description>.center {text-align:center;}.box {width:300px;height:auto;color:black;border-radius: 6px;line-height: 22px;background-color: #d0dde4;border:1px solid #76aec9;transition: all 0.3s;padding: 10px;margin-bottom: 5px;width:100%;box-sizing: border-box;outline:0;}La vostra presenza al nostro matrimonio sarà un dono preziosoVi ringraziamo di condividere con noi questo giorno!...e se desiderate farci un regalo...&#34;La vita è un viaggio e chi viaggia vive due volte&#34;</description>
     </item>
     
@@ -71,11 +45,6 @@ Indirizzo: Piazza dei Martiri, Acquaviva delle Fonti (BA), 70021 .alignment {t
       
       <guid>https://www.francescoedaniela.site/gallery/</guid>
       <description>qui vengono le foto del ricevimento</description>
-=======
-      <description>la vostra presenza al nostro matrimonio sarà un dono prezioso e vi ringraziamo di condividere con noi questo giorno
-se desiderate farci un regalo&amp;hellip;
-La vita è un viaggio e chi viaggia vive due volte il nostro viaggio più lungo sta per acquisire più valore anche grazie a voi se volete farci un pensiero avremmo piacere che il vostro contributo andasse per ????? Beneficiario: xxx capapgira </description>
->>>>>>> 77351cfd875416477a356a7873c3a0335b960a9c
     </item>
     
     <item>
@@ -84,20 +53,8 @@ La vita è un viaggio e chi viaggia vive due volte il nostro viaggio più lungo 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.francescoedaniela.site/contatti/</guid>
-<<<<<<< HEAD
       <description>* {box-sizing: border-box;}.column { float: left;width: 50%;padding: 10px;height: 200px;}.row:after {content: &#34;&#34;;display: table;clear: both;.center {text-align:center;}}Per poter organizzare al meglio la festa vi chiediamo gentile conferma della Vostra presenza entro il 10 giugno.Per qualsiasi necessità potete contattarci tramite i contatti o il form qui sottoFrancesco RacanoVia Leandro Pecci 20</description>
     </item>
     
   </channel>
 </rss>
-=======
-      <description>* {box-sizing: border-box;}.column { float: left;width: 50%;padding: 10px;height: 200px;}.row:after {content: &#34;&#34;;display: table;clear: both;}Per poter organizzare al meglio la festa vi chiediamo gentile conferma della Vostra presenza entro il 10 giugno.Per qualsiasi necessità non esitate a contattarci! Francesco RacanoVia Leandro Pecci 20
-Acquaviva delle Fonti (BA)
-70021
-3281689373
-f.racano8@live.com</description>
-    </item>
-    
-  </channel>
-</rss>
->>>>>>> 77351cfd875416477a356a7873c3a0335b960a9c
