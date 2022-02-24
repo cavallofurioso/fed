@@ -16,7 +16,14 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.francescoedaniela.site/cerimonia/</guid>
-      <description>.center {text-align: center;}Non mi stanco ancoraA stare sotto il soleA prenderti la manoA dirti che ti amoPasseranno gli anniCambierò coloreMa io sono sicuro cheSaremo ancora noi dueLa cerimonia religiosa avrà luogo presso
+      <description>.center {text-align: center;}Non mi stanco ancora
+A stare sotto il sole
+A prenderti la mano
+A dirti che ti amo
+Passeranno gli anni
+Cambierò colore
+Ma io sono sicuro che
+Saremo ancora noi dueLa cerimonia religiosa avrà luogo presso
 Concattedrale di Sant&#39;Eustachio Martire10:30Piazza dei Martiri, Acquaviva delle Fonti (BA), 70021</description>
     </item>
     
@@ -26,25 +33,20 @@ Concattedrale di Sant&#39;Eustachio Martire10:30Piazza dei Martiri, Acquaviva 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.francescoedaniela.site/ricevimento/</guid>
-      <description>.button {width: 100px;height: 40px;color: red;text-align: center;background-color: black;}.center {text-align: center;}Dopo la cerimonia religiosa attendiamo tutti gli invitati a proseguire i festeggiamenti presso Masseria &#34;La Macina&#34;Eisale alla metà del XVII secolo e nasce con il nome di &#34;Capricella Grande&#34;Sorge a Fasano, lungo contrada Torre Spaccata (antica via &#34;Appia Traiana&#34;) SS 379 Torre Spaccata 72015 Fasano(40.</description>
+      <description>Dopo la cerimonia religiosa attendiamo tutti gli invitati a proseguire i festeggiamenti presso Masseria &#34;La Macina&#34;Risale alla metà del XVII secolo e nasce con il nome di &#34;Capricella Grande&#34;
+Sorge a Fasano, lungo contrada Torre Spaccata (antica via &#34;Appia Traiana&#34;) SS 379 Torre Spaccata 72015 Fasano(40.83553833599897, 17.43526443311218)www.masserialamacina.com
+info@masserialamacina.comDress codePreparatevi per la festa! Indossate il vostro outfit preferito ma.</description>
     </item>
     
     <item>
-      <title>Lista di Nozze</title>
-      <link>https://www.francescoedaniela.site/info/</link>
+      <title>Lista Nozze</title>
+      <link>https://www.francescoedaniela.site/lista/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.francescoedaniela.site/info/</guid>
-      <description>.center {text-align:center;}.box {width:300px;height:auto;color:black;border-radius: 6px;line-height: 22px;background-color: #d0dde4;border:1px solid #76aec9;transition: all 0.3s;padding: 10px;margin-bottom: 5px;width:100%;box-sizing: border-box;outline:0;}La vostra presenza al nostro matrimonio sarà un dono preziosoVi ringraziamo di condividere con noi questo giorno!...e se desiderate farci un regalo...&#34;La vita è un viaggio e chi viaggia vive due volte&#34;</description>
-    </item>
-    
-    <item>
-      <title>Gallery</title>
-      <link>https://www.francescoedaniela.site/gallery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.francescoedaniela.site/gallery/</guid>
-      <description>qui vengono le foto del ricevimento</description>
+      <guid>https://www.francescoedaniela.site/lista/</guid>
+      <description>.center {text-align:center;}.box {margin: auto;width:100%;height:auto;color:black;border-radius: 6px;line-height: 22px;background-color: #d0dde4;border:1px solid #76aec9;transition: all 0.3s;padding: 10px;margin-bottom: 5px;box-sizing: border-box;outline:0;}&#34;La vita è un viaggio e chi viaggia vive due volte&#34;La vostra presenza al nostro matrimonio sarà un dono prezioso
+Vi ringraziamo di condividere con noi questo giorno!
+...e se desiderate farci un regalo.</description>
     </item>
     
     <item>
@@ -53,7 +55,7 @@ Concattedrale di Sant&#39;Eustachio Martire10:30Piazza dei Martiri, Acquaviva 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.francescoedaniela.site/contatti/</guid>
-      <description>* {box-sizing: border-box;}.column { float: left;width: 50%;padding: 10px;height: 200px;}.row:after {content: &#34;&#34;;display: table;clear: both;.center {text-align:center;}}Per poter organizzare al meglio la festa vi chiediamo gentile conferma della Vostra presenza entro il 10 giugno.Per qualsiasi necessità potete contattarci tramite i contatti o il form qui sottoFrancesco RacanoVia Leandro Pecci 20</description>
+      <description>* {box-sizing: border-box;}.column { float: left;width: 50%;padding: 10px;height: 200px;}.right{text-align:right;}.left {text-align:left; }.row:after {content: &#34;&#34;;display: table;clear: both;.center {text-align:center;}}Per poter organizzare al meglio la festa vi chiediamo gentile conferma della Vostra presenza entro il 10 giugno.Per qualsiasi necessità potete contattarci tramite i contatti o il form qui sotto</description>
     </item>
     
   </channel>
